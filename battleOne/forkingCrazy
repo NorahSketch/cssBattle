@@ -1,0 +1,27 @@
+<spo><line></line></spo>
+<ti style="bottom: 0;"></ti>
+
+<style>
+body { 
+background: #6592CF;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+  
+spo {
+background: #060F55;
+padding: 70px;
+border-radius: 0 0 50% 50%;
+top: 30px;
+position: relative;
+}
+
+line, ti { background: #060F55; position: absolute; padding: 55px 10px; }
+
+line {
+border-radius: 50px;
+left: 0px; top: -60px;
+box-shadow: 20px 0 #6592CF, 40px 0 #060F55, 60px 0 #6592CF, 80px 0 #060F55, 100px 0 #6592CF, 120px 0 #060F55;
+}
+</style>
