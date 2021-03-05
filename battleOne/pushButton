@@ -1,0 +1,15 @@
+<div></div>
+
+<style>
+body {
+background: #6592CF;
+display: flex;
+justify-content: center;
+align-items: center; }
+
+div {
+background:radial-gradient(1px, #EEB850 25px,0,#243D83 75px, 0,#0000 125px,#243D83)no-repeat;
+position: absolute;
+height: 150px;
+width: 75%; }
+</style>
