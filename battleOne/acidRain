@@ -1,0 +1,17 @@
+<div> <p></p> <c></c> </div>
+
+<style>
+body {
+background: #0B2429;
+margin: 30px 200px; }
+
+div, p, c {
+background: #F3AC3C;
+padding: 60px;
+border-radius: 50%;
+position: absolute; }
+
+p, c { border-radius: 50% 0 50% 50%; }
+p { background: #998235; bottom: -76px; left: -60px; }
+c { bottom: -120px; left: -120px; }
+</style>
