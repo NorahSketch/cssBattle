@@ -1,0 +1,19 @@
+<p></p><p></p><p></p><p></p>
+
+<style>
+body {
+margin: 0;
+margin-top: 34px;
+margin-left: 50px;
+background: #62374e;
+display: inline-grid;
+grid-template: 50% 50% / 50% 50%;
+grid-row-gap: 46px;
+grid-column-gap: 133.8px;
+}
+  
+p {
+width: 3.1rem; height: 3.1rem;
+background: #fdc57b;
+}
+</style>
